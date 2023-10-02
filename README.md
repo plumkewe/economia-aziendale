@@ -9,37 +9,37 @@
     <tr>
       <td>
         <b>Variazione Fininziaria Attiva</b>
-        <ul>
-          <li>🟢aumento di denaro</li>
-          <li>🟢aumento di crediti</li>
-          <li>🟢riduzione di debiti</li>
-        </ul>
+          <p>
+          🟢aumento di denaro <br>
+          🟢aumento di crediti <br>
+          🟢riduzione di debiti <br>
+          </p>
       </td>
       <td>
         <b>Variazione Finanziaria Passiva</b>
-        <ul>
-          <li>🔴diminuzione di denaro</li>
-          <li>🔴riduzione di crediti</li>
-          <li>🔴aumento di debiti</li>
-        </ul>
+          <p>
+          🔴diminuzione di denaro <br>
+          🔴riduzione di crediti <br>
+          🔴aumento di debiti <br>
+          </p>
       </td>
     </tr>
     <tr>
       <td>
         <b>Variazione Economica Negativa </b>
-        <ul>
-          <li>🔴costi</li>
-          <li>🔴rettifiche di ricavi</li>
-          <li>🔴diminuzione di patrimonio netto</li>
-        </ul>
+        <p>
+          🔴costi <br>
+          🔴rettifiche di ricavi <br>
+          🔴diminuzione di patrimonio netto <br>
+        </p>
       </td>
       <td>
         <b>Variazione Economica Positiva </b>
-        <ul>
-          <li>🟢ricavi</li>
-          <li>🟢rettifiche di costi</li>
-          <li>🟢aumento di patrimonio netto</li>
-        </ul>
+        <p>
+          🟢ricavi <br>
+          🟢rettifiche di costi <br>
+          🟢aumento di patrimonio netto <br>
+        </p>
       </td>
     </tr>
   </tbody>
