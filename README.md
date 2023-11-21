@@ -1,4 +1,9 @@
-<h1>Regola generale</h1>
+<h1>Appunti</h1>
+
+`🔑` [2022](https://plumpkewe.craft.me/EA/2022) `🔑` [2023](https://plumpkewe.craft.me/EA/2023)
+
+
+<h3>Regola generale</h3>
 
 <table>
   <tbody>
