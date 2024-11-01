@@ -1,4 +1,4 @@
-# Vendite con spesse di trasporto
+# Vendite con spese di trasporto
 
 - Clausola **FMV** (spese al carico del compratore)
 
@@ -15,7 +15,6 @@
 
 > *Emessa fattura per vendita merci*
 
-*Se non sono di trasporto → rimborso spesse di vendita
-
+- Se non sono di trasporto → rimborso spese di vendita
 - gli sconti vengono tolti direttamente dal valore
 

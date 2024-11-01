@@ -1,4 +1,4 @@
-# Acquisti con spesse di trasporto
+# Acquisti con spese di trasporto
 
 - Caso acquisto beni strumentali (macchinari, **arredamento**, attrezzature…) → Spese di trasporto, installazione, collaudo… vengono **PATRIMONIALIZZATE** cioè entrano a far parte del costo principale
 
